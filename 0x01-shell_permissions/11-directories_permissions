@@ -1,2 +1,2 @@
 #!/bin/bash
-chmos x+x */
+chmod x+x */
